@@ -11,8 +11,14 @@
 
 <body>
 
+<<<<<<< HEAD
 	hello Git
    
+=======
+	파일 새로 추가
+    인덱스에서 새로 내용 커밋한다 1
+    인덱스에서 새로 내용 커밋한다 2
+>>>>>>> branch 'master' of https://github.com/letzkoh/testpsu.git
 
 </body>
 
